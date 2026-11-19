@@ -2,8 +2,8 @@
 html{scroll-behavior:smooth}
 body{overflow-x:hidden}
 a:focus-visible,button:focus-visible{outline:3px solid var(--gold);outline-offset:3px}
-.hero-right{position:relative;background:linear-gradient(140deg,rgba(16,24,40,.18),rgba(16,24,40,.75)),url('../images/hero/apart.jpg') center/cover,#d8d8d8}
-.hero-right:after{content:'Kuday Öğrenci Apartı';position:absolute;left:28px;bottom:24px;color:#fff;font-size:24px;font-weight:700;text-shadow:0 2px 12px #000}
+.hero-right{position:relative;background:linear-gradient(140deg,rgba(16,24,40,.18),rgba(16,24,40,.75)),url('../images/hero/apart-yasam.png') center/cover,#d8d8d8}
+
 .page-hero{padding:55px 0 35px}
 .page-hero .eyebrow{color:var(--gold);font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
 .page-hero h1{font-size:clamp(36px,5vw,58px);line-height:1.1;margin:12px 0 18px;color:var(--ink)}
