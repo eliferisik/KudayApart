@@ -15,4 +15,3 @@ Pınarhisar / Kırklareli için hazırlanmış, Türkçe statik apart tanıtım 
 - Çok Yakında
 
 İletişim telefon numarası ve sosyal medya bağlantıları, işletme bilgileri netleştiğinde `iletisim.html` ve ana sayfaya eklenmelidir.
-
