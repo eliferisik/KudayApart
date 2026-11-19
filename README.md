@@ -2,7 +2,7 @@
 
 Pınarhisar / Kırklareli için hazırlanmış, Türkçe statik apart tanıtım sitesi.
 
-## Çalıştırma
+# Nasıl Çalıştırılır?
 
 `index.html` dosyasını tarayıcıda açın veya VS Code'da Live Server ile çalıştırın.
 
